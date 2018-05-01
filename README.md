@@ -1,6 +1,8 @@
+## Information
 1. Data is pre-processed using pandas, gensim and numpy libraries
 2. Input data: text_emotion.csv and splitted into train and test set 
 3. Collected from crowdflower website
+4. Step by step works done in here: https://github.com/Jakaria08/emotion-analysis/blob/master/IOT_PROJECT.ipynb
 ## Preprocessing 
 
 The targed of the following preprocessing is to create a Bag-of-Words representation of the data. The steps will execute as follows:
