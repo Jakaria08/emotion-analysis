@@ -18,3 +18,4 @@ The targed of the following preprocessing is to create a Bag-of-Words representa
 3. Build word list for Bag-of-Words
 
 ## BOW + Naive Bayes classification
+![6](https://user-images.githubusercontent.com/7825643/39469519-dce32516-4cf5-11e8-93f4-6418107d2f07.png)
